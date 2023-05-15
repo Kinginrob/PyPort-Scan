@@ -11,6 +11,6 @@ PyPortScan is a multi-threaded port scanning tool built with Python. It provides
 
 ## Warning 
 
-Scanning networks without permission is illegal and unethical. Only use PyPortScan for legitimate and lawful purposes. Always obtain proper permissions before scanning any network or system. The developer of PyPortScan assume no liability and is not responsible for any misuse or damage caused by this program.
+Scanning networks without permission is illegal and unethical. Only use PyPortScan for legitimate and lawful purposes. Always obtain proper permissions before scanning any network or system. The developer of PyPortScan assumes no liability and is not responsible for any misuse or damage caused by this program.
 
 ![scanner](https://github.com/Kinginrob/PyPort-Scan/assets/89039139/a457f013-6a95-4278-bb49-9c1064da753a)
