@@ -5,7 +5,7 @@ PyPortScan is a multi-threaded port scanning tool built with Python. It provides
 ## Features
 
 * Multi-threaded scanning for faster results.
-* Graphical User Interface for ease of use.
+* Graphical User Interface for ease of usage.
 * Exception handling to ensure smooth operation.
 * Real-time results displayed during scanning process.
 
